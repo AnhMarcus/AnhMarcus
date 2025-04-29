@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone! 👋 I'm Anh Hoang from the Earth 🌍</h1>
 
 <p align="center">
-  <img src="/vuongicesmile/vuongicesmile/raw/main/svg/vuongquocdev.svg" width="1200" alt="Click to see the source" style="max-width: 100%;" />
+  <img src="https://media.tenor.com/images/508c09eab5a8de27b85e9f4441f1ff15/tenor.gif" width="200" />
 </p>
 
 <p align="center">
