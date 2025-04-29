@@ -1,7 +1,7 @@
 <h1 align="center">Hi everyone! 👋 I'm Anh Hoang from the Earth 🌍</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XEo74h3LiW4r4/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/XEo74h3LiW4r4/giphy.gif" width="1200" />
 </p>
 
 <p align="center">
